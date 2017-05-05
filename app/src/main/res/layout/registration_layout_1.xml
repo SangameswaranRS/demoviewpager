@@ -8,4 +8,17 @@
         android:layout_height="wrap_content"
         android:text="This is registration Layout 1"
         android:textSize="55dp"/>
+    <com.wrapp.floatlabelededittext.FloatLabeledEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text=""
+        android:hint="Enter your name here"
+        android:ems="10"
+        android:id="@+id/editText" />
+    </com.wrapp.floatlabelededittext.FloatLabeledEditText>
 </LinearLayout>

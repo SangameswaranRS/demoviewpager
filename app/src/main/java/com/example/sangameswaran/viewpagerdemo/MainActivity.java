@@ -15,5 +15,8 @@ public class  MainActivity extends AppCompatActivity {
         Adapter aa=new Adapter(this);
         pager.setAdapter(aa);
 
+
+
+
     }
 }
